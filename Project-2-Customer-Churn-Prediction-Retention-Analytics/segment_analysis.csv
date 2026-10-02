@@ -1,0 +1,4 @@
+Customer_Segment,Customers,Avg_Tenure,Avg_Monthly_Charges,Avg_Churn_Probability,Customer_Percentage
+At Risk,300,9.89,79.21,0.66,21.29
+Dormant,372,10.12,45.22,0.25,26.4
+Loyal,737,51.88,67.46,0.12,52.31
